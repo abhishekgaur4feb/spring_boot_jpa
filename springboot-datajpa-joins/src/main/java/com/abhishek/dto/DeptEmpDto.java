@@ -1,4 +1,4 @@
-package com.ravindra.dto;
+package com.abhishek.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

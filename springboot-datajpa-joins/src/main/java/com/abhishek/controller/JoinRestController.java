@@ -1,4 +1,4 @@
-package com.ravindra.controller;
+package com.abhishek.controller;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ravindra.dto.DeptEmpDto;
-import com.ravindra.service.JoinService;
+import com.abhishek.dto.DeptEmpDto;
+import com.abhishek.service.JoinService;
 
 @RestController
 public class JoinRestController {

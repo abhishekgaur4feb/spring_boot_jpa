@@ -1,4 +1,4 @@
-package com.ravindra.service;
+package com.abhishek.service;
 
 import java.util.List;
 
@@ -6,9 +6,9 @@ import javax.annotation.Resource;
 
 import org.springframework.stereotype.Service;
 
-import com.ravindra.dto.DeptEmpDto;
-import com.ravindra.repo.DepartmentRepository;
-import com.ravindra.repo.EmployeeRepository;
+import com.abhishek.dto.DeptEmpDto;
+import com.abhishek.repo.DepartmentRepository;
+import com.abhishek.repo.EmployeeRepository;
 
 @Service
 public class JoinService {
